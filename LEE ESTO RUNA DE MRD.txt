@@ -1,0 +1,2 @@
+el que dice esfera es el que ya dibuja la esfera rojita
+entonces es un programa separado lo demas es con lo que generamos la imagen
